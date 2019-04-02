@@ -29,6 +29,10 @@ export default class App extends Component<Props> {
   }
 }
 
+
+
+
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
